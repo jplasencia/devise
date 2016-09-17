@@ -1,0 +1,66 @@
+# Logfile created on 2016-09-11 17:25:43 -0400 by logger.rb/44203
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-11 17:25:43 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [a248c29a] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.130
+  INFO [5731e0aa] Running /usr/bin/env mkdir -p /tmp as deploy@example.com
+ DEBUG [a248c29a] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [5731e0aa] Command: /usr/bin/env mkdir -p /tmp
+  INFO [a248c29a] Finished in 7.766 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-devise-production-jplasencia.sh 0.0%
+  INFO Uploading /tmp/git-ssh-devise-production-jplasencia.sh 100.0%
+  INFO [21da24ea] Running /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh as deploy@192.168.241.130
+ DEBUG [21da24ea] Command: /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh
+  INFO [21da24ea] Finished in 0.005 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-11 17:29:02 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [55b7bf15] Running /usr/bin/env mkdir -p /tmp on deploy
+ DEBUG [55b7bf15] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f45a9034] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.130
+ DEBUG [f45a9034] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f45a9034] Finished in 3.226 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-devise-production-jplasencia.sh 0.0%
+  INFO Uploading /tmp/git-ssh-devise-production-jplasencia.sh 100.0%
+  INFO [55337a31] Running /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh as deploy@192.168.241.130
+ DEBUG [55337a31] Command: /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh
+  INFO [55337a31] Finished in 0.013 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-11 18:02:29 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [e60c73c0] Running /usr/bin/env mkdir -p /tmp on deploy
+  INFO [f785dece] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.130
+ DEBUG [e60c73c0] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [f785dece] Command: /usr/bin/env mkdir -p /tmp
+  INFO [f785dece] Finished in 4.338 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-devise-production-jplasencia.sh 0.0%
+  INFO Uploading /tmp/git-ssh-devise-production-jplasencia.sh 100.0%
+  INFO [6528af09] Running /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh as deploy@192.168.241.130
+ DEBUG [6528af09] Command: /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh
+  INFO [6528af09] Finished in 0.004 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-11 18:03:30 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [c221b536] Running /usr/bin/env mkdir -p /tmp on deploy
+ DEBUG [c221b536] Command: /usr/bin/env mkdir -p /tmp
+  INFO [fe36c82b] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.130
+ DEBUG [fe36c82b] Command: /usr/bin/env mkdir -p /tmp
+  INFO [fe36c82b] Finished in 3.634 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-devise-production-jplasencia.sh 0.0%
+  INFO Uploading /tmp/git-ssh-devise-production-jplasencia.sh 100.0%
+  INFO [04676681] Running /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh as deploy@192.168.241.130
+ DEBUG [04676681] Command: /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh
+  INFO [04676681] Finished in 0.006 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-11 18:07:38 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [ed6d348a] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.130
+  INFO [712f8e48] Running /usr/bin/env mkdir -p /tmp on deploy
+ DEBUG [ed6d348a] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [712f8e48] Command: /usr/bin/env mkdir -p /tmp
+  INFO [ed6d348a] Finished in 4.716 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-devise-production-jplasencia.sh 0.0%
+  INFO Uploading /tmp/git-ssh-devise-production-jplasencia.sh 100.0%
+  INFO [34380725] Running /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh as deploy@192.168.241.130
+ DEBUG [34380725] Command: /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh
+  INFO [34380725] Finished in 0.014 seconds with exit status 0 (successful).
