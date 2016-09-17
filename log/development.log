@@ -728,3 +728,14 @@ Processing by VisitorsController#index as HTML
   Rendered layouts/_navigation.html.erb (1.6ms)
   Rendered layouts/_messages.html.erb (0.4ms)
 Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-17 14:04:23 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by VisitorsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "users"
+  Rendered visitors/index.html.erb within layouts/application (33.3ms)
+  Rendered layouts/_navigation_links.html.erb (2.9ms)
+  Rendered layouts/_navigation.html.erb (4.1ms)
+  Rendered layouts/_messages.html.erb (0.4ms)
+Completed 200 OK in 2676ms (Views: 2606.2ms | ActiveRecord: 0.7ms)
