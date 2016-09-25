@@ -2,7 +2,7 @@
 lock '3.6.1'
 
 set :application, 'devise'
-set :repo_url, 'https://github.com/jplasencia/devise.git'
+set :repo_url, 'git@github.com:jplasencia/devise.git'
 
 
 # Default branch is :master

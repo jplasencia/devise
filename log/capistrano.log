@@ -85,3 +85,17 @@
  DEBUG [454adc82] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
  DEBUG [f52f5d5b] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.131
  DEBUG [f52f5d5b] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 17:41:06 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [970aebc1] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [d6234865] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.131
+ DEBUG [d6234865] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [970aebc1] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 17:41:58 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [24b46877] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [7f05a439] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.131
+ DEBUG [7f05a439] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [24b46877] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
