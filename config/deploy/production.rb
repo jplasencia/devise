@@ -14,7 +14,7 @@ role :db,  %w{deploy}
 # definition into the server list. The second argument
 # something that quacks like a hash can be used to set
 # extended properties on the server.
-server '192.168.241.130', user: 'deploy', roles: %w{web app}, port: 22
+server '192.168.241.131', user: 'deploy', roles: %w{web app}, port: 22
 
 # you can set custom ssh options
 # it's possible to pass any option but you need to keep in mind that net/ssh understand limited list of options
