@@ -71,3 +71,17 @@
   INFO [6edb01ef] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.131
  DEBUG [b8bf216a] Command: /usr/bin/env mkdir -p /tmp
  DEBUG [6edb01ef] Command: /usr/bin/env mkdir -p /tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 17:27:01 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [069a7c6b] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.131
+ DEBUG [98b5533c] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [98b5533c] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [069a7c6b] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 17:34:15 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [454adc82] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [454adc82] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [f52f5d5b] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.131
+ DEBUG [f52f5d5b] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
