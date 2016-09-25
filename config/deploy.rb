@@ -9,7 +9,7 @@ set :repo_url, 'git@github.com:jplasencia/devise.git'
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
 
 # Default deploy_to directory is /var/www/my_app
-# set :deploy_to, '/var/www/my_app'
+set :deploy_to, '/home/deploy/devise'
 
 # Default value for :scm is :git
 # set :scm, :git

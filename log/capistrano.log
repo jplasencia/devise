@@ -64,3 +64,10 @@
   INFO [34380725] Running /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh as deploy@192.168.241.130
  DEBUG [34380725] Command: /usr/bin/env chmod 700 /tmp/git-ssh-devise-production-jplasencia.sh
   INFO [34380725] Finished in 0.014 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 16:58:22 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b8bf216a] Running /usr/bin/env mkdir -p /tmp on deploy
+  INFO [6edb01ef] Running /usr/bin/env mkdir -p /tmp as deploy@192.168.241.131
+ DEBUG [b8bf216a] Command: /usr/bin/env mkdir -p /tmp
+ DEBUG [6edb01ef] Command: /usr/bin/env mkdir -p /tmp
