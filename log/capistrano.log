@@ -99,3 +99,48 @@
  DEBUG [7f05a439] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.131
  DEBUG [7f05a439] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
  DEBUG [24b46877] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 17:46:03 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [7b9cbd59] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.132
+ DEBUG [02bd8f4e] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [7b9cbd59] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [02bd8f4e] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [7b9cbd59] Finished in 3.710 seconds with exit status 1 (failed).
+ ERROR rbenv: 2.3.1p112 is not installed or not found in $HOME/.rbenv/versions/2.3.1p112
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 21:17:15 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [3634a427] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [f293f192] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.132
+ DEBUG [f293f192] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [3634a427] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [f293f192] Finished in 2.245 seconds with exit status 1 (failed).
+ ERROR rbenv: 2.3.1p112 is not installed or not found in $HOME/.rbenv/versions/2.3.1p112
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 22:20:40 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [3a7b4af2] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.132
+ DEBUG [c8963f22] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [3a7b4af2] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [c8963f22] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [3a7b4af2] Finished in 2.211 seconds with exit status 1 (failed).
+ ERROR rbenv: 2.3.1p112 is not installed or not found in $HOME/.rbenv/versions/2.3.1p112
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 22:22:03 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [8d84a890] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [8d84a890] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [3648c45c] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.132
+ DEBUG [3648c45c] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [3648c45c] Finished in 2.233 seconds with exit status 1 (failed).
+ ERROR rbenv: 2.3.1p112 is not installed or not found in $HOME/.rbenv/versions/2.3.1p112
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 22:22:41 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [7b05413f] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [a8ba801f] Running [ -d $HOME/.rbenv/versions/2.3.1p112 ] as deploy@192.168.241.132
+ DEBUG [7b05413f] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [a8ba801f] Command: [ -d $HOME/.rbenv/versions/2.3.1p112 ]
+ DEBUG [a8ba801f] Finished in 2.208 seconds with exit status 1 (failed).
+ ERROR rbenv: 2.3.1p112 is not installed or not found in $HOME/.rbenv/versions/2.3.1p112

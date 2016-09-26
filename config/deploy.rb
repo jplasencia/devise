@@ -10,6 +10,7 @@ set :repo_url, 'git@github.com:jplasencia/devise.git'
 
 # Default deploy_to directory is /var/www/my_app
 set :deploy_to, '/home/deploy/devise'
+set :rbenv_path, '/home/deploy/.rbenv/'
 
 # Default value for :scm is :git
 # set :scm, :git
