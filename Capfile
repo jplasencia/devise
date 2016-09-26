@@ -24,7 +24,8 @@ require 'capistrano/rbenv'
 # require 'capistrano/rails/assets'
 # require 'capistrano/rails/migrations'
 
-set :rbenv_path, '/home/jplasencia/.rbenv/bin/rbenv'
+set :rbenv_path, '/home/deploy/.rbenv/bin/rbenv'
+
 
 set :rbenv_type, :user # or :system, depends on your rbenv setup
 set :rbenv_ruby, '2.3.1p112'

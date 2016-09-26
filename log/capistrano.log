@@ -198,3 +198,12 @@
  DEBUG [6ac7378e] Command: [ -d /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112 ]
  DEBUG [f7357b3e] Finished in 2.202 seconds with exit status 1 (failed).
  ERROR rbenv: 2.3.1p112 is not installed or not found in /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-25 22:47:38 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [a6f1be09] Running [ -d /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112 ] on deploy
+ DEBUG [a6f1be09] Command: [ -d /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112 ]
+ DEBUG [79831b78] Running [ -d /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112 ] as deploy@192.168.241.132
+ DEBUG [79831b78] Command: [ -d /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112 ]
+ DEBUG [79831b78] Finished in 2.206 seconds with exit status 1 (failed).
+ ERROR rbenv: 2.3.1p112 is not installed or not found in /home/jplasencia/.rbenv/bin/rbenv/versions/2.3.1p112
