@@ -20,4 +20,12 @@ test:
   <<: *default
   database: db/test.sqlite3
 
-
+production:
+  <<: *default
+  adapter: mysql2
+  encoding: utf8
+  database: devise
+  username: root
+  password: 
+  host: 127.0.0.1
+  port: 3306

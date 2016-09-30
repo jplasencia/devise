@@ -300,3 +300,27 @@
  DEBUG [dc6acb8a] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
  DEBUG [dc6acb8a] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
  DEBUG [0f21d6aa] Finished in 2.396 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 21:10:03 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [d8f77ac5] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [d8f77ac5] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [1cca30be] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [1cca30be] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [1cca30be] Finished in 2.215 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 21:14:27 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [fbdfb0db] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [fbdfb0db] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [951af785] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [951af785] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [951af785] Finished in 2.212 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 21:18:39 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [01aade10] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [01aade10] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [f1336a9d] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [f1336a9d] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [f1336a9d] Finished in 2.337 seconds with exit status 0 (successful).
