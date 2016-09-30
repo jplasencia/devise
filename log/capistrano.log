@@ -324,3 +324,11 @@
  DEBUG [f1336a9d] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
  DEBUG [f1336a9d] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
  DEBUG [f1336a9d] Finished in 2.337 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 21:29:05 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [b04b1fd5] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [b04b1fd5] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [aa91598c] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [aa91598c] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [aa91598c] Finished in 2.205 seconds with exit status 0 (successful).
