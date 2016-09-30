@@ -252,3 +252,51 @@
  DEBUG [02a55ce8] Command: [ -d /home/deploy/.rbenv/versions/2.3.1/versions/2.3.1p112 ]
  DEBUG [8013609e] Finished in 2.198 seconds with exit status 1 (failed).
  ERROR rbenv: 2.3.1p112 is not installed or not found in /home/deploy/.rbenv/versions/2.3.1/versions/2.3.1p112
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-27 21:06:29 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [d1090e28] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [6bef6000] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [6bef6000] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [d1090e28] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [d1090e28] Finished in 2.220 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 14:02:15 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [28bef816] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [28bef816] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [6566710c] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [6566710c] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [6566710c] Finished in 3.658 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 14:05:12 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [e15daf4e] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [f4a2299c] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [f4a2299c] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [e15daf4e] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [e15daf4e] Finished in 2.211 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 14:59:38 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [eecab427] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [eecab427] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [e0ac090b] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [e0ac090b] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [eecab427] Finished in 2.186 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 15:00:31 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [972482b5] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [972482b5] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [f8d19050] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [f8d19050] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [f8d19050] Finished in 2.187 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2016-09-29 21:07:17 -0400 cap production deploy
+  INFO ---------------------------------------------------------------------------
+ DEBUG [0f21d6aa] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] as deploy@192.168.241.132
+ DEBUG [0f21d6aa] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [dc6acb8a] Running [ -d /home/deploy/.rbenv/versions/2.3.1 ] on deploy
+ DEBUG [dc6acb8a] Command: [ -d /home/deploy/.rbenv/versions/2.3.1 ]
+ DEBUG [0f21d6aa] Finished in 2.396 seconds with exit status 0 (successful).
